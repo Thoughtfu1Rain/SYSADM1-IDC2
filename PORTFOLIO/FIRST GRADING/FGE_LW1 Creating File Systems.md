@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 234488076b48465383572d75fba38460 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLO/GY                      |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: LAURIANO, Ryan             | DATE                   | 50/50    |
-|                                  | PERFORMED:08/22/2024   |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE                   |          |
-|                                  | SUBMITTED:08/22/2024   |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/a408b383-42db-4876-9bca-7b222c6c9add)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 

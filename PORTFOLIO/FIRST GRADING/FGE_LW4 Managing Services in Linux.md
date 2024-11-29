@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| ed11f64eef7848a7b6f0b6ceee4a7140 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: LAURIANO, Ryan             | DATE                   |          |
-|                                  | PERFORMED:09/12/2024   |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE                   |          |
-|                                  | SUBMITTED:09/12/2024   |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/bfe5a948-f527-42ed-954b-6a4eea7125ea)
+
 
 # SYSADM1 -- Managing Services in Linux
 

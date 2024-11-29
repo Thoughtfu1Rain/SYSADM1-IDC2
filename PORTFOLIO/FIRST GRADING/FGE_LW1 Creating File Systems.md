@@ -1,5 +1,18 @@
-![image](https://github.com/user-attachments/assets/a408b383-42db-4876-9bca-7b222c6c9add)
-
++----------------------------------+------------------------+----------+
+| ![](vertopal_                    |                        |          |
+| 26819a957f944f51a34f5031f3b21343 |                        |          |
+| /media/image1.png){width="2.4in" |                        |          |
+| height="0.5881944444444445in"}   |                        |          |
+|                                  |                        |          |
+| SCHOOL OF INFORMATION AND        |                        |          |
+| TECHNOLO/GY                      |                        |          |
++----------------------------------+------------------------+----------+
+| NAME: LAURIANO, Ryan             | DATE                   | 50/50    |
+|                                  | PERFORMED:08/22/2024   |          |
++----------------------------------+------------------------+----------+
+| Section: IDC2                    | DATE                   |          |
+|                                  | SUBMITTED:08/22/2024   |          |
++----------------------------------+------------------------+----------+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
@@ -20,13 +33,13 @@
 3.  **Create a new folder:** Right-click in an empty space, select
     \"New,\" then \"Folder.\" Name it \"Lab1_Windows.\"
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image2.png){width="7.027083333333334in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image2.png){width="7.027083333333334in"
 > height="1.632638888888889in"}
 
 4.  **Create a text file:** Right-click in the \"Lab1_Windows\" folder,
     select \"New,\" then \"Text Document.\" Rename it to \"info.txt.\"
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image3.png){width="7.027083333333334in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image3.png){width="7.027083333333334in"
 > height="1.6680555555555556in"}
 
 5.  **Open the text file:** Double-click the \"info.txt\" file to open
@@ -35,7 +48,7 @@
 6.  **Type some text:** Write a short paragraph about yourself or the
     purpose of the file.
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image4.png){width="7.027083333333334in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image4.png){width="7.027083333333334in"
 > height="1.4770833333333333in"}
 
 7.  **Save the file:** Close the Notepad window and save the changes.
@@ -43,7 +56,7 @@
 8.  **Create a subfolder:** Create a new folder inside \"Lab1_Windows\"
     called \"Data.\"
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image5.png){width="7.027083333333334in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image5.png){width="7.027083333333334in"
 > height="2.0430555555555556in"}
 
 9.  **Copy the text file:** Copy the \"info.txt\" file to the \"Data\"
@@ -51,13 +64,13 @@
 
 10. **Rename the copied file:** Rename the copied file to \"data.txt.
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image6.png){width="7.027083333333334in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image6.png){width="7.027083333333334in"
 > height="1.8145833333333334in"}
 
 11. Create a folder named \"LabFiles\" with subfolders for each file
     type. Use the internet for the resources of the files listed below.
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image7.png){width="5.965310586176728in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image7.png){width="5.965310586176728in"
 > height="1.5465616797900263in"}
 >
 > **LabFiles**
@@ -70,8 +83,8 @@
 
     3.  code.cpp
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image8.png){width="3.063999343832021in"
-> height="1.112273622047244in"}![](vertopal_234488076b48465383572d75fba38460/media/image9.png){width="2.2504319772528434in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image8.png){width="3.063999343832021in"
+> height="1.112273622047244in"}![](vertopal_26819a957f944f51a34f5031f3b21343/media/image9.png){width="2.2504319772528434in"
 > height="1.1299989063867018in"}
 
 2.  **Images**
@@ -82,8 +95,8 @@
 
     3.  image3.bmp
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image10.png){width="2.8184569116360456in"
-> height="1.4035498687664043in"}![](vertopal_234488076b48465383572d75fba38460/media/image11.png){width="2.770858486439195in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image10.png){width="2.8184569116360456in"
+> height="1.4035498687664043in"}![](vertopal_26819a957f944f51a34f5031f3b21343/media/image11.png){width="2.770858486439195in"
 > height="1.3792672790901137in"}
 
 3.  **Audio**
@@ -92,16 +105,16 @@
 
     2.  speech.wav
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image12.png){width="3.0366754155730535in"
-> height="1.1681419510061242in"}![](vertopal_234488076b48465383572d75fba38460/media/image13.png){width="2.639090113735783in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image12.png){width="3.0366754155730535in"
+> height="1.1681419510061242in"}![](vertopal_26819a957f944f51a34f5031f3b21343/media/image13.png){width="2.639090113735783in"
 > height="1.1992399387576553in"}
 
 4.  **Video**
 
     1.  clip.mp4
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image14.png){width="3.135699912510936in"
-> height="1.3285958005249343in"}![](vertopal_234488076b48465383572d75fba38460/media/image15.png){width="2.4944553805774277in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image14.png){width="3.135699912510936in"
+> height="1.3285958005249343in"}![](vertopal_26819a957f944f51a34f5031f3b21343/media/image15.png){width="2.4944553805774277in"
 > height="1.298964348206474in"}
 
 12. **Check file properties:** Right-click on the \"info.txt\" file and
@@ -113,9 +126,9 @@
     read-only, hidden) using the Properties dialog. Observe the changes
     in File Explorer.
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image16.png){width="3.127063648293963in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image16.png){width="3.127063648293963in"
 > height="1.6560859580052494in"}
-> ![](vertopal_234488076b48465383572d75fba38460/media/image17.png){width="2.9580752405949258in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image17.png){width="2.9580752405949258in"
 > height="1.7229866579177602in"}
 >
 > ***When changing the file attribute to hidden the document in the File
@@ -130,7 +143,7 @@
 15. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
     archive of the \"Lab1_Windows\" folder.
 
-> ![](vertopal_234488076b48465383572d75fba38460/media/image18.png){width="7.027083333333334in"
+> ![](vertopal_26819a957f944f51a34f5031f3b21343/media/image18.png){width="7.027083333333334in"
 > height="2.252083333333333in"}
 
 16. **Extract an archive:** Create a new folder, then extract the

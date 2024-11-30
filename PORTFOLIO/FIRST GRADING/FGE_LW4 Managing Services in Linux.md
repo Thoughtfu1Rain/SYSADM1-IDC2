@@ -7,8 +7,7 @@
 
 -   A virtual machine running Linux
 
-![](vertopal_ed11f64eef7848a7b6f0b6ceee4a7140/media/image2.png){width="4.135416666666667in"
-height="1.8020833333333333in"}
+![](vertopal_ed11f64eef7848a7b6f0b6ceee4a7140/media/image2.png)
 
 Complete this lab as follows:
 

@@ -1,18 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 12c64f5430ba461ebbfb7f2a798feac6 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: LAURIANO, RYAN             | DATE PERFORMED:        | /50      |
-|                                  | 09/26/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 09/26/2024             |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/ea9629fa-09bc-4636-a844-b8485ed80b7c)
 
 # SYSADM1 -- Monitoring Print Services in Windows Server 2019
 

@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 67308196f5544571bf955c7bc1fe270f |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: CAYBOEN, KIMI & LAURIANO,  | DATE PERFORMED:        | /50      |
-| RYAN                             | 11/28/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 12/03/2024             |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/791c82ed-a578-45aa-9ad8-9b2f949dde25)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -26,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_67308196f5544571bf955c7bc1fe270f/media/image2.webp){width="6.4774300087489065in"
-height="4.904000437445319in"}
+![image](https://github.com/user-attachments/assets/d3eed2a1-5e2b-46d1-bf3b-4637d41e4654)
+
 
 **NETWORK ANALYSIS**
 
@@ -92,8 +79,8 @@ height="4.904000437445319in"}
 
 **PROPOSED NETWORK DESIGN**
 
-![](vertopal_67308196f5544571bf955c7bc1fe270f/media/image3.png){width="6.627083333333333in"
-height="8.389458661417322in"}
+![image3](https://github.com/user-attachments/assets/687d6bb3-c430-484f-979f-aee2a80ea080)
+
 
 1)  **Additional ISP**
 

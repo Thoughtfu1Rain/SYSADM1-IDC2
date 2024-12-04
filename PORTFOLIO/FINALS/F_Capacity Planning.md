@@ -168,45 +168,5 @@ increased user demand, new applications, and security threats.
     prevention systems (IDS/IPS) to proactively identify and mitigate
     threats.
 
-  --------------------------------------------------------------------------------
-  Criteria          Excellent \| 10pts      Good \| 7pts      Needs Improvement \|
-                                                              4pts
-  ----------------- ----------------------- ----------------- --------------------
-  **Network         Accurately identifies   Identifies key    Identifies some
-  Analysis**        potential bottlenecks,  network           basic network
-                    security risks, and     components and    components but lacks
-                    capacity limitations.   some potential    a comprehensive
-                                            bottlenecks.      analysis.
+![image](https://github.com/user-attachments/assets/7f971c64-8eb3-4174-9984-e08730f5ddfb)
 
-  **Scalability     Proposes multiple       Proposes some     Proposes limited
-  Planning**        relevant solutions and  relevant          scalability
-                    provides detailed       scalability       strategies.
-                    explanations, including strategies but    
-                    potential drawbacks and lacks detail.     
-                    benefits.                                 
-
-  **Evaluation of   Proposes comprehensive  Provides a basic  Does not evaluate
-  Solutions**       scalability strategies, evaluation of the the proposed
-                    including specific      proposed          solutions or
-                    recommendations for     solutions, but    provides a
-                    hardware upgrades,      lacks depth.      superficial
-                    software                                  evaluation.
-                    configurations, and                       
-                    network optimizations.                    
-
-  **Proposed        Provides a detailed and Provides a basic  Does not provide a
-  Design**          well-justified design,  design but lacks  clear and detailed
-                    including network       specific details  design.
-                    diagrams, configuration and               
-                    details, and            justifications.   
-                    implementation plans.                     
-
-  **Evaluation and  Provides a thorough     Provides a basic  Does not evaluate
-  Justification**   evaluation of the       evaluation of the the proposed
-                    proposed solutions,     proposed          solutions or
-                    considering factors     solutions, but    provides a
-                    like cost, complexity,  lacks depth.      superficial
-                    and potential impact.                     evaluation
-
-  Score:                                                      /50
-  --------------------------------------------------------------------------------

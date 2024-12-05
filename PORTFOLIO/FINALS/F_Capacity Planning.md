@@ -78,8 +78,7 @@ increased user demand, new applications, and security threats.
 **SCALABILITY PLANNING**
 
 **PROPOSED NETWORK DESIGN**
-![image](https://github.com/user-attachments/assets/3431835a-a4d6-4c76-97eb-3ed86546c07a)
-
+![image](https://github.com/user-attachments/assets/0e307f91-920c-4308-974b-5f1b7b1c38fe)
 ![Network diagram example](https://github.com/user-attachments/assets/f7d058d2-0633-4ea6-8389-9ffa0f840653)
 
 

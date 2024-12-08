@@ -1,18 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 2ccbfbed0a494bcfb7816de01d94b9ef |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: LAURIANO, RYAN G.          | DATE PERFORMED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/b8b55da1-0132-496a-bcb4-deef207b085f)
 
 # SYSADM1 -- Git Basics
 
